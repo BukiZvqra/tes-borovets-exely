@@ -1,0 +1,13 @@
+{
+  "name": "tes-borovets-exely-integration",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Isolated deployment source for the Exely Booking Engine integration on tes-borovets.com",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+

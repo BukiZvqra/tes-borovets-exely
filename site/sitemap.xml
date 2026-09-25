@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://tes-borovets.com/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://tes-borovets.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tes-borovets.com/apartments/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/apartments/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/apartments/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://tes-borovets.com/en/apartments/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/apartments/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/apartments/"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://tes-borovets.com/complex/flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/complex/flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/complex/flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/complex/flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/complex/flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/complex/flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/complex/royal-plaza/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/complex/royal-plaza/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/complex/royal-plaza/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/complex/royal-plaza/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/complex/royal-plaza/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/complex/royal-plaza/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/complex/rila-park/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/complex/rila-park/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/complex/rila-park/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/complex/rila-park/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/complex/rila-park/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/complex/rila-park/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/complex/borovets-gardens/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/complex/borovets-gardens/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/complex/borovets-gardens/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/complex/borovets-gardens/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/complex/borovets-gardens/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/complex/borovets-gardens/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-21-tulip/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-21-tulip/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-21-tulip/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-21-tulip/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-21-tulip/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-21-tulip/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-519-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-519-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-519-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-519-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-519-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-519-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-19-clover/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-19-clover/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-19-clover/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-19-clover/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-19-clover/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-19-clover/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-14-clover/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-14-clover/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-14-clover/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-14-clover/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-14-clover/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-14-clover/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/onebr-05-clover/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-05-clover/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-05-clover/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/onebr-05-clover/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-05-clover/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-05-clover/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/onebr-601-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-601-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-601-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/onebr-601-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-601-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-601-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/onebr-208-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-208-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-208-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/onebr-208-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-208-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-208-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/onebr-13-clover/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-13-clover/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-13-clover/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/onebr-13-clover/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-13-clover/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-13-clover/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/twobr-10-mailili/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/twobr-10-mailili/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/twobr-10-mailili/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/twobr-10-mailili/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/twobr-10-mailili/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/twobr-10-mailili/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/twobr-28-violet/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/twobr-28-violet/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/twobr-28-violet/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/twobr-28-violet/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/twobr-28-violet/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/twobr-28-violet/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-503-rila-park/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-503-rila-park/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-503-rila-park/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-503-rila-park/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-503-rila-park/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-503-rila-park/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/twobr-44-rila-park/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/twobr-44-rila-park/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/twobr-44-rila-park/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/twobr-44-rila-park/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/twobr-44-rila-park/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/twobr-44-rila-park/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-royal-plaza-01/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-royal-plaza-01/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-royal-plaza-01/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-royal-plaza-01/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-royal-plaza-01/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-royal-plaza-01/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-b35-bg/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-b35-bg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-b35-bg/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-b35-bg/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-b35-bg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-b35-bg/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-b36-bg/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-b36-bg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-b36-bg/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-b36-bg/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-b36-bg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-b36-bg/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-18-tulip/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-18-tulip/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-18-tulip/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-18-tulip/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-18-tulip/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-18-tulip/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-05-tulip/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-05-tulip/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-05-tulip/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-05-tulip/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-05-tulip/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-05-tulip/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-409-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-409-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-409-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-409-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-409-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-409-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/studio-703-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-703-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-703-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/studio-703-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/studio-703-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/studio-703-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/onebr-11-mailili/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-11-mailili/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-11-mailili/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/onebr-11-mailili/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-11-mailili/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-11-mailili/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/onebr-03-tulip/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-03-tulip/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-03-tulip/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/onebr-03-tulip/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-03-tulip/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-03-tulip/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/onebr-404-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-404-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-404-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/onebr-404-flora/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/onebr-404-flora/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/onebr-404-flora/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tes-borovets.com/property/double-18-mailili/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/double-18-mailili/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/double-18-mailili/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tes-borovets.com/en/property/double-18-mailili/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/property/double-18-mailili/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/property/double-18-mailili/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://tes-borovets.com/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/contact/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://tes-borovets.com/en/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/contact/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://tes-borovets.com/about-borovets/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/about-borovets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/about-borovets/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://tes-borovets.com/en/about-borovets/</loc>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://tes-borovets.com/about-borovets/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tes-borovets.com/en/about-borovets/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+</urlset>
