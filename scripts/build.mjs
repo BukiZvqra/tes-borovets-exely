@@ -51,7 +51,7 @@ for (const file of sourceFiles) {
   if (stats.size > 2 * 1024 * 1024) fail(`unexpected file larger than 2 MB: ${path.relative(root, file)}`);
 }
 
-fs.rmSync(output, { recursive: true, force: true });
+fs.rmSync(output, { recursive: true, force: true, maxRetries: 5, retryDelay: 200 });
 fs.cpSync(source, output, { recursive: true, errorOnExist: true });
 
 const outputFiles = listFiles(output);
@@ -68,4 +68,3 @@ for (const sourceFile of sourceFiles) {
 }
 
 console.log(`Build passed: ${sourceFiles.length} files, ${htmlFiles.length} HTML pages, byte-verified output.`);
-

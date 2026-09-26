@@ -9,11 +9,22 @@ Netlify website, any other repository, or any account credential.
 
 No invitation or special repository access is required.
 
+Use either option:
+
+### Fastest option — ZIP
+
+1. Open `https://github.com/BukiZvqra/tes-borovets-exely/releases`.
+2. Download the attached self-service ZIP and extract it.
+3. Edit and test the extracted project locally. No GitHub account is needed.
+4. When finished, send the completed ZIP back to the website owner.
+
+### Optional option — Exely-owned fork
+
 1. Sign in to a GitHub account controlled by Exely.
-2. Open `https://github.com/BukiZvqra/tes-borovets-exely`.
-3. Select **Fork**, keep **Copy the `exely-integration` branch only** enabled, and create the fork.
-4. Clone the fork locally, or edit the files in the fork through GitHub's web editor.
-5. Make every Exely change on the fork's `exely-integration` branch. Do not edit `main`.
+2. Open `https://github.com/BukiZvqra/tes-borovets-exely` and select **Fork**.
+3. Keep **Copy the `exely-integration` branch only** enabled.
+4. Edit, commit, and test entirely inside the Exely-owned fork.
+5. When finished, send the fork URL to the website owner. An upstream Pull Request is optional, not required.
 
 GitHub permanently saves each submitted commit and keeps its history. Editing a file without selecting
 **Commit changes** does not save the change to the repository.
@@ -101,23 +112,20 @@ Test at desktop and mobile widths in both Bulgarian and English:
 Do not make a real charge. If Exely requires an end-to-end test reservation, use Exely's approved test
 procedure and cancel the reservation immediately after verification.
 
-## 7. Deliver the completed integration
+## 7. Finish the work
 
-1. In the Exely fork, select **Contribute** and then **Open pull request**.
-2. Set the base repository and branch to
-   `BukiZvqra/tes-borovets-exely:exely-integration` and the head branch to the Exely fork's
-   `exely-integration`.
-3. Complete the Pull Request checklist.
-4. List the hotel ID, public room/offer IDs, scripts, pages, and buttons changed. Do not paste secrets.
-5. Send the Pull Request URL to WelcomeBook Agency and state which booking flows were tested.
-6. GitHub automatically validates and packages the submitted website without exposing any credential.
-7. WelcomeBook Agency will review the successful build, publish it to the isolated preview site, and
-   return the preview URL for joint testing.
-8. The live website is published only after preview approval by both sides and the repository owner.
+1. Complete all local or Exely staging tests.
+2. Run `npm run build` once more and confirm that it passes.
+3. Keep the completed source, including the updated `site/` directory, in the delivery package.
+4. Send the finished ZIP or Exely-owned fork URL together with the tested booking flows.
+
+No upstream Pull Request or WelcomeBook Agency approval is required for Exely to implement and test the
+integration. Publication to `tes-borovets.com` is a separate production action because this handover
+intentionally contains no production credential.
 
 Preview environment: `https://tes-borovets-exely-preview.netlify.app`
 
 Production environment: `https://tes-borovets.com`
 
-The preview URL currently shows the verified production baseline. It will not change after an Exely
-commit until WelcomeBook Agency publishes the approved build artifact to it.
+The preview URL currently shows the verified production baseline. Exely may use its own isolated staging
+environment in addition to the included local preview.

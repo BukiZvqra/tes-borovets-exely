@@ -5,28 +5,27 @@ It contains only the publishable TES Borovets website. It does not contain the W
 other websites, payment functions, account credentials, or deployment tokens.
 
 **Exely implementers:** start with [EXELY-HANDOVER.md](EXELY-HANDOVER.md). It contains the complete
-access, editing, validation, testing, and delivery procedure.
+editing and testing instructions.
 
-No invitation is required. Use **Fork** to create your own editable copy, implement and test the
-integration there, and return the finished work with a Pull Request to `exely-integration`.
+No invitation, repository permission, Pull Request, or approval is required to implement and test the
+integration. Download the self-service ZIP from the GitHub Releases page, extract it, edit it locally,
+and run `npm run preview`. When the work is complete, return the finished ZIP or a link to an Exely-owned
+fork. WelcomeBook Agency involvement is needed only if publication to the live website is requested.
 
-Direct fork link: `https://github.com/BukiZvqra/tes-borovets-exely/fork`
+Release downloads: `https://github.com/BukiZvqra/tes-borovets-exely/releases`
+
+Optional fork link: `https://github.com/BukiZvqra/tes-borovets-exely/fork`
 
 ## How changes are saved and built
 
-1. Fork this repository and work from the `exely-integration` branch in your fork.
-2. Edit or upload the integration files under `site/` in the fork.
-3. Select **Commit changes** in GitHub. The commit permanently saves the change and its history.
-4. Build and test the website in the fork with `npm run preview`.
-5. Open a Pull Request from the fork into `BukiZvqra/tes-borovets-exely:exely-integration`. GitHub
-   automatically validates the submitted website and creates a downloadable `tes-borovets-build` package.
-6. WelcomeBook Agency publishes the verified package to the isolated Netlify preview website.
-7. The live website is published only after preview testing and approval by the repository owner.
+1. Download and extract the self-service ZIP, or fork this repository into an Exely-owned GitHub account.
+2. Edit the integration files under `site/`.
+3. Run `npm run preview` and complete the booking-flow tests.
+4. Keep the completed project in the Exely-owned workspace and send the finished ZIP or fork URL when done.
 
-The automatic build uses no deployment credentials and cannot modify the preview or live website. Preview
-publication deliberately remains an owner-controlled approval step.
+The package contains no deployment credentials and cannot modify the preview or live website.
 
-Do not request repository or Netlify access. Do not commit directly to `main`. Do not add passwords, API keys, Exely account credentials,
+Do not request repository or Netlify access. Do not add passwords, API keys, Exely account credentials,
 guest data, or other secrets to this repository.
 
 ## Local build
