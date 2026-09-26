@@ -71,11 +71,16 @@ For each logical change:
 The successful workflow creates a downloadable artifact named `tes-borovets-build`. This automatic
 build contains no deployment credential and cannot modify either the preview or the live website.
 
-For a local check, Node.js 20 or newer is sufficient:
+For a local check, Node.js 20 or newer is sufficient. Build and start the included test server:
 
 ```bash
-npm run build
+npm run preview
 ```
+
+Then open `http://127.0.0.1:4173`. The command rebuilds the complete site before every preview and
+does not need Netlify access or any additional package. Press `Ctrl+C` to stop it. If the Exely test
+environment restricts allowed domains, Exely is responsible for permitting this local test origin or
+for using its own isolated staging environment.
 
 ## 6. Minimum testing before delivery
 

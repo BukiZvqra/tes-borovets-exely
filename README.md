@@ -34,6 +34,12 @@ npm run build
 
 The command validates the site and creates a byte-verified `dist/` directory. Netlify publishes `dist/`.
 
+To build and open a local test server at `http://127.0.0.1:4173`:
+
+```bash
+npm run preview
+```
+
 ## Exely integration map
 
 The website is static. Bulgarian pages are under `site/`; English pages are under `site/en/`.
