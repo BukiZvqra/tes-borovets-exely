@@ -4,6 +4,9 @@ This is the isolated private repository for the Exely Booking Engine integration
 It contains only the publishable TES Borovets website. It does not contain the WelcomeBook Agency source,
 other websites, payment functions, account credentials, or deployment tokens.
 
+**Exely implementers:** start with [EXELY-HANDOVER.md](EXELY-HANDOVER.md). It contains the complete
+access, editing, validation, testing, and delivery procedure.
+
 ## How changes are saved and built
 
 1. Create or open the branch `exely-integration`.
