@@ -1,5 +1,7 @@
 ## Exely integration change
 
+Submit this Pull Request to the upstream `exely-integration` branch. Do not target `main` directly.
+
 - [ ] The change is limited to the Exely Booking Engine integration.
 - [ ] Both Bulgarian and English booking flows were checked.
 - [ ] No passwords, API keys, hotel credentials, or guest data were committed.

@@ -1,27 +1,32 @@
 # TES Borovets - Exely Booking Engine integration
 
-This is the isolated private repository for the Exely Booking Engine integration on `tes-borovets.com`.
+This is the isolated public repository for the Exely Booking Engine integration on `tes-borovets.com`.
 It contains only the publishable TES Borovets website. It does not contain the WelcomeBook Agency source,
 other websites, payment functions, account credentials, or deployment tokens.
 
 **Exely implementers:** start with [EXELY-HANDOVER.md](EXELY-HANDOVER.md). It contains the complete
 access, editing, validation, testing, and delivery procedure.
 
+No invitation is required. Use **Fork** to create your own editable copy, implement and test the
+integration there, and return the finished work with a Pull Request to `exely-integration`.
+
+Direct fork link: `https://github.com/BukiZvqra/tes-borovets-exely/fork`
+
 ## How changes are saved and built
 
-1. Create or open the branch `exely-integration`.
-2. Edit or upload the integration files under `site/`.
+1. Fork this repository and work from the `exely-integration` branch in your fork.
+2. Edit or upload the integration files under `site/` in the fork.
 3. Select **Commit changes** in GitHub. The commit permanently saves the change and its history.
-4. GitHub Actions automatically validates the website and creates a downloadable `tes-borovets-build` package.
-5. Open a Pull Request into `main` and notify WelcomeBook Agency.
+4. Build and test the website in the fork with `npm run preview`.
+5. Open a Pull Request from the fork into `BukiZvqra/tes-borovets-exely:exely-integration`. GitHub
+   automatically validates the submitted website and creates a downloadable `tes-borovets-build` package.
 6. WelcomeBook Agency publishes the verified package to the isolated Netlify preview website.
 7. The live website is published only after preview testing and approval by the repository owner.
 
-The automatic build uses no deployment credentials and cannot modify the live website. Netlify Personal does not
-allow an external Git contributor to deploy a private repository automatically, so preview publication deliberately
-remains an owner-controlled approval step.
+The automatic build uses no deployment credentials and cannot modify the preview or live website. Preview
+publication deliberately remains an owner-controlled approval step.
 
-Do not commit directly to `main`. Do not add passwords, API keys, Exely account credentials,
+Do not request repository or Netlify access. Do not commit directly to `main`. Do not add passwords, API keys, Exely account credentials,
 guest data, or other secrets to this repository.
 
 ## Local build

@@ -6,6 +6,7 @@ on:
       - exely-integration
   pull_request:
     branches:
+      - exely-integration
       - main
 
 permissions:

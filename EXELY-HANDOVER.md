@@ -1,15 +1,19 @@
 # Exely implementation handover
 
-This private repository is the only workspace for the Exely Booking Engine integration on
-`tes-borovets.com`. It is isolated from all other WelcomeBook Agency projects and does not provide
-access to the live Netlify website.
+This public repository is the self-service workspace for the Exely Booking Engine integration on
+`tes-borovets.com`. It contains only files that are already publishable as part of the public website.
+It is isolated from all other WelcomeBook Agency projects and does not provide access to the live
+Netlify website, any other repository, or any account credential.
 
-## 1. Accept access and use the correct branch
+## 1. Create your editable copy
 
-1. Send WelcomeBook Agency the exact GitHub username of the person who will implement the integration.
-2. Accept the GitHub collaborator invitation sent to that account.
-3. Open this repository and confirm that the selected branch is `exely-integration`.
-4. Make every Exely change on `exely-integration`. Do not commit directly to `main`.
+No invitation or special repository access is required.
+
+1. Sign in to a GitHub account controlled by Exely.
+2. Open `https://github.com/BukiZvqra/tes-borovets-exely`.
+3. Select **Fork**, keep **Copy the `exely-integration` branch only** enabled, and create the fork.
+4. Clone the fork locally, or edit the files in the fork through GitHub's web editor.
+5. Make every Exely change on the fork's `exely-integration` branch. Do not edit `main`.
 
 GitHub permanently saves each submitted commit and keeps its history. Editing a file without selecting
 **Commit changes** does not save the change to the repository.
@@ -64,9 +68,10 @@ For each logical change:
 
 1. Select **Commit changes** in GitHub, or commit and push with Git locally.
 2. Use a clear commit message, for example `Add Exely booking engine pages`.
-3. Open the repository **Actions** tab.
-4. Wait for the **Validate and package TES Borovets** workflow to finish successfully.
-5. If it fails, open the failed step, correct the reported issue, and commit again.
+3. Run `npm run preview` and complete the local tests below.
+4. When the implementation is ready, open the upstream Pull Request described in section 7.
+5. Wait for the Pull Request check **Validate and package TES Borovets** to finish successfully.
+6. If it fails, open the failed step, correct the reported issue in the fork, and push again.
 
 The successful workflow creates a downloadable artifact named `tes-borovets-build`. This automatic
 build contains no deployment credential and cannot modify either the preview or the live website.
@@ -98,13 +103,17 @@ procedure and cancel the reservation immediately after verification.
 
 ## 7. Deliver the completed integration
 
-1. Open a Pull Request from `exely-integration` into `main`.
-2. Complete the Pull Request checklist.
-3. List the hotel ID, public room/offer IDs, scripts, pages, and buttons changed. Do not paste secrets.
-4. Send the Pull Request URL to WelcomeBook Agency and state which booking flows were tested.
-5. WelcomeBook Agency will review the successful build, publish it to the isolated preview site, and
+1. In the Exely fork, select **Contribute** and then **Open pull request**.
+2. Set the base repository and branch to
+   `BukiZvqra/tes-borovets-exely:exely-integration` and the head branch to the Exely fork's
+   `exely-integration`.
+3. Complete the Pull Request checklist.
+4. List the hotel ID, public room/offer IDs, scripts, pages, and buttons changed. Do not paste secrets.
+5. Send the Pull Request URL to WelcomeBook Agency and state which booking flows were tested.
+6. GitHub automatically validates and packages the submitted website without exposing any credential.
+7. WelcomeBook Agency will review the successful build, publish it to the isolated preview site, and
    return the preview URL for joint testing.
-6. The live website is published only after preview approval by both sides and the repository owner.
+8. The live website is published only after preview approval by both sides and the repository owner.
 
 Preview environment: `https://tes-borovets-exely-preview.netlify.app`
 
